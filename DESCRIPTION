@@ -1,0 +1,11 @@
+Package: DirectIndexing
+Type: Package
+Title: Routines to determine a direct indexing approach
+Version: 1.0
+Date: 2023-08-11
+Author: Alex
+Maintainer: Alex <alex@nr.no>
+Description: How to directly index
+Depends: data.table,
+	 quantmod
+RoxygenNote: 7.2.0
